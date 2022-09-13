@@ -2,7 +2,7 @@
   "name": "renovate-warnings-in-PR-body",
   "version": "1.0.0",
   "dependencies": {
-    "i18next": "20.4.0",
+    "i18next": "21.9.1",
     "dummyDep": "^1.0.1"
   }
 }
