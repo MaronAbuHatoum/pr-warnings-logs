@@ -1,4 +1,4 @@
 {
   "extends": ["github>whitesource/merge-confidence:beta",":disableRateLimiting"],
-  "dependencyDashboard": false,
+  "dependencyDashboard": false
 }
