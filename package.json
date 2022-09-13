@@ -2,7 +2,7 @@
   "name": "renovate-warnings-in-PR-body",
   "version": "1.0.0",
   "dependencies": {
-    "lodash": "3.0.0",
+    "lodash": "3.10.1",
     "dummyDep": "^1.0.1"
   }
 }
